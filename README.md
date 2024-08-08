@@ -6,11 +6,17 @@ Key Features:
 Count of Employees: The dashboard analyzes data from 1,470 employees.
 Attrition Rate: It highlights an overall attrition rate of 16.1%, identifying key factors contributing to employee turnover.
 Demographic Breakdown:
+
 Attrition by Age: The highest attrition is observed in the 26-35 age group.
+
 Attrition by Education: Employees with backgrounds in Life Sciences (38%) and Medical fields (27%) show higher turnover rates.
+
 Attrition by Gender: Gender-specific attrition insights help identify trends among male and female employees.
+
 Attrition by Job Role: Roles like Laboratory Technician and Sales Executive experience the highest attrition, with 62 and 57 employees leaving, respectively.
+
 Attrition by Salary: The majority of attrition occurs in the lower salary band (up to 5K).
+
 Attrition by Years at Company: Attrition is higher among employees in their early years with the company, particularly those with 1-3 years of tenure.
 
 Technologies Used:
