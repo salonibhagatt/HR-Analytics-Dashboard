@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard
+# HR-Analytics-Dashboard📊
 This HR Analytics Dashboard, built in Power BI, offers insights into employee attrition, covering key metrics like attrition rates (16.1%), demographics, job roles, and salary bands. It helps HR teams identify trends and develop strategies to improve retention, making data-driven decisions easier and more effective.
 
 Key Features:
@@ -12,10 +12,11 @@ Attrition by Gender: Gender-specific attrition insights help identify trends amo
 Attrition by Job Role: Roles like Laboratory Technician and Sales Executive experience the highest attrition, with 62 and 57 employees leaving, respectively.
 Attrition by Salary: The majority of attrition occurs in the lower salary band (up to 5K).
 Attrition by Years at Company: Attrition is higher among employees in their early years with the company, particularly those with 1-3 years of tenure.
-Technologies Used:
 
+Technologies Used:
 Power BI: Utilized for data visualization and creating the dashboard.
-Insights:
+
+Insights:📈
 This dashboard provides actionable insights into employee retention challenges, particularly among specific age groups, job roles, and salary bands. It allows HR teams to pinpoint areas for improvement and develop targeted strategies to reduce turnover and enhance employee satisfaction.
 
 Usage:
